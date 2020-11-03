@@ -1,4 +1,4 @@
-# sunclient
+# Toxiclient
 A fork on the dragonfireclient
 
 Link for original: https://github.com/EliasFleckenstein03/dragonfireclient
